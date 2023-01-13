@@ -1,7 +1,7 @@
 ﻿# Spring2-Tasca1: Estructures_dades 
  
  - Exercici 1: 
-  - Crea una llista que agrupi els mesos de l’any en trimestres (1T: Gener, Febrer i Març, 2T: Abril, Maig, Juny...), és a dir, una llista amb 4 llistes dins.
+   - Crea una llista que agrupi els mesos de l’any en trimestres (1T: Gener, Febrer i Març, 2T: Abril, Maig, Juny...), és a dir, una llista amb 4 llistes dins.
 
 - Exercici 2: 
   - Crea un codi que et permeti accedir a:
